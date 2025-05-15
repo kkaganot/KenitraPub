@@ -1,0 +1,12 @@
+name: KenitraPub
+title: KenitraPub
+username: kkoo
+account: kkoo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14759579
+bundleId: 10286752
+url: https://kkoo.shinyapps.io/KenitraPub/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
